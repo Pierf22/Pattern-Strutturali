@@ -1,5 +1,6 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13035577&assignment_repo_type=AssignmentRepo)
- <h1> Esercizi svolti </h1> 
+# Esercizi sui pattern strutturali
+fatti per il corso di Ingegneria del Software
+<h1> Esercizi svolti </h1> 
 
 <h2> 1) Text Decorator</h2>
 Ho utilizzato il pattern decorator, per decorare una JtextField (field), è possibile cambiare il colore, il font e la size del testo
